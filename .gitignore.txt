@@ -1,0 +1,44 @@
+# =========================
+# General System Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Power BI Files
+# =========================
+# Keep only your main .pbix file, ignore autosaves/backups
+*.pbix.autosave
+*.pbix.tmp
+*.bak
+*.cache
+
+# =========================
+# Excel / CSV Data Files
+# =========================
+# (Don’t upload Forage-provided datasets)
+*.csv
+*.xlsx
+*.xls
+~$*.xls*
+
+# =========================
+# Logs and Temporary Files
+# =========================
+*.log
+*.tmp
+
+# =========================
+# IDE / Editor Settings
+# =========================
+.vscode/
+.idea/
+*.code-workspace
+
+# =========================
+# Python / Node environments (if ever added)
+# =========================
+venv/
+__pycache__/
+node_modules/
