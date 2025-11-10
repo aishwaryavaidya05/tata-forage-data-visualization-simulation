@@ -20,10 +20,10 @@ The objective of this simulation was to design insightful and executive-ready **
 
 | Dashboard Page | Preview |
 |----------------|----------|
-| Visual 1 | ![Monthly Line Chart – Retail Sales (2011)](visuals-screenshots\visual-1.png) |
-| Visual 2 | ![Bar Chart – Revenue and Quantity Sold per Country](visuals-screenshots\visual-2.png) |
-| Visual 3 | ![Bar Chart – Top 10 Customers](visuals-screenshots\visual-3.png) |
-| Visual 4 | ![Map Chart – Quantity Sold per Country](visuals-screenshots\visual-4.png) |
+| Visual 1 | ![Monthly Line Chart – Retail Sales (2011)](visuals-screenshots/visual-1.png) |
+| Visual 2 | ![Bar Chart – Revenue and Quantity Sold per Country](visuals-screenshots/visual-2.png) |
+| Visual 3 | ![Bar Chart – Top 10 Customers](visuals-screenshots/visual-3.png) |
+| Visual 4 | ![Map Chart – Quantity Sold per Country](visuals-screenshots/visual-4.png) |
 
 
 ---
